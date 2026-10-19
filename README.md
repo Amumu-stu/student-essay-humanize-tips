@@ -16,7 +16,7 @@
 
 试过多款线上工具之后，笔灵 AI 是我觉得适配学术长文稿，实测表现比较稳定的一款，属于个人赶 due 自用分享。 
 
-传送门：[笔灵英文降ai ](https://u.ibiling.cn/vrq6Qj)[https://ibiling\.cn/paper\-pass/english](https://u.ibiling.cn/vrq6Qj)
+传送门：[笔灵英文降ai ](https://ibiling.cn/paper-pass/english?from=githubywjiangai1009jw)[https://ibiling\.cn/paper\-pass/english](https://ibiling.cn/paper-pass/english?from=githubywjiangai1009jw)
 
 我这份社科 Report 原始**英文 ai 率检测**结果达到 87%，属于高危标蓝区间。经过笔灵 AI 深度优化之后，AI 指标回落至安全区间。之后分别在**turnitin**、ZeroGPT、Copyleaks、Originality 进行多次复测，整体表现稳定，可以应对新版平台筛查，实现 Humanize AI。
 
